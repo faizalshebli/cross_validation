@@ -1,0 +1,6 @@
+runcell(0, '/Users/faizalshebli/Documents/#FS2021/FS transformation/FS 2.0/FS5T plan (As a Data Scientist)/FS learn ML via Kaggle/Machine Learning 2/cross_validation.py')
+MAE scores:
+ [301628.7893587  303164.4782723  287298.331666   236061.84754543
+ 260383.45111427]
+Average MAE score (across experiments:
+277707.3795913405
